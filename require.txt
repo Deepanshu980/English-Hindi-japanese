@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+transformers
+sentencepiece
+protobuf
+streamlit
+requests
+gtts
+openai-whisper
+pydub
